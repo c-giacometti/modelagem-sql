@@ -1,3 +1,5 @@
+CREATE DATABASE "modelagem_ecommerce"
+
 CREATE TABLE users (
 	"id" serial NOT NULL,
 	"name" TEXT NOT NULL,
